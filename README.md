@@ -116,30 +116,30 @@ np.mean(predict(res.x,X)==y)
 ![image](https://github.com/Sachin-vlr/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497666/9ba9cd42-aacc-4be0-ac80-30cdb6a1c084)
 
 ### Array value of Y:
-![image](https://github.com/Sachin-vlr/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497666/0b004b5d-e7c2-42ee-b40a-0aa6e9f71095)
+![image](https://github.com/Sachin-vlr/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497666/b295ede5-3a93-45e2-b4a0-532979d58a1b)
 
 ### Score graph:
-![image](https://github.com/Sachin-vlr/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497666/c07925ac-8977-4e0e-9786-af299bc7562d)
+![image](https://github.com/Sachin-vlr/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497666/07100620-afaf-4f13-97d0-f75d22851b28)
 
 ### Sigmoid function:
-![image](https://github.com/Sachin-vlr/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497666/e6690b3a-d84d-4928-b4e1-d1930d2b2d16)
+![image](https://github.com/Sachin-vlr/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497666/f5c0d695-6745-4e15-bd6f-135195e483b2)
 
 ### X_train_grad value:
-![image](https://github.com/Sachin-vlr/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497666/1def83c8-1968-40f3-a08d-75b439c25806)
+![image](https://github.com/Sachin-vlr/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497666/e9e660c0-4e32-4425-98d1-efd9d084bb5e)
 
 ### Y_train_grad value:
-![image](https://github.com/Sachin-vlr/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497666/969dd66c-0a32-4e2c-840d-7734fbd78d1e)
+![image](https://github.com/Sachin-vlr/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497666/9499bc2e-873a-4a56-96d8-bc180c8e08df)
 
 ### res.x:
-![image](https://github.com/Sachin-vlr/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497666/d955a448-dc79-4f2f-af4a-4e543217542c)
+![image](https://github.com/Sachin-vlr/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497666/8976fefe-570c-4935-85da-c39e56a2b3c5)
 
 ### Decision boundry:
-![image](https://github.com/Sachin-vlr/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497666/c80f230c-0cbc-43cb-8e53-5ab901633198)
 
 ### Probability value:
-![image](https://github.com/Sachin-vlr/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497666/90d378f1-15b0-47aa-8419-a19b60890bb8)
+![image](https://github.com/Sachin-vlr/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497666/c909d5b9-3276-45a3-a068-ca91a8c41151)
 
 ### Probability value of mean:
+![image](https://github.com/Sachin-vlr/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497666/853a7f09-a40f-413f-b1d4-8bc9fbd65b86)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
