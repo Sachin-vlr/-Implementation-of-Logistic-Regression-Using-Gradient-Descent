@@ -119,21 +119,22 @@ np.mean(predict(res.x,X)==y)
 ![image](https://github.com/Sachin-vlr/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497666/b295ede5-3a93-45e2-b4a0-532979d58a1b)
 
 ### Score graph:
-![image](https://github.com/Sachin-vlr/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497666/07100620-afaf-4f13-97d0-f75d22851b28)
+![image](https://github.com/Sachin-vlr/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497666/75ce4256-f05c-4880-b6a0-d14b58d938b5)
 
 ### Sigmoid function:
-![image](https://github.com/Sachin-vlr/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497666/f5c0d695-6745-4e15-bd6f-135195e483b2)
+![image](https://github.com/Sachin-vlr/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497666/bb7e2494-761d-4602-8a5e-fd08846bfc73)
 
 ### X_train_grad value:
-![image](https://github.com/Sachin-vlr/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497666/e9e660c0-4e32-4425-98d1-efd9d084bb5e)
+![image](https://github.com/Sachin-vlr/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497666/223b0362-478f-4604-8142-f3846a70075e)
 
 ### Y_train_grad value:
-![image](https://github.com/Sachin-vlr/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497666/9499bc2e-873a-4a56-96d8-bc180c8e08df)
+![image](https://github.com/Sachin-vlr/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497666/219db1d0-28d8-44da-bb20-ce6180d530b4)
 
 ### res.x:
-![image](https://github.com/Sachin-vlr/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497666/8976fefe-570c-4935-85da-c39e56a2b3c5)
+![image](https://github.com/Sachin-vlr/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497666/f4daf44f-6228-48f1-8e91-bcc771e05c73)
 
 ### Decision boundry:
+![image](https://github.com/Sachin-vlr/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497666/2ecdede3-ea89-4e1e-9e90-45a8dd72ac2e)
 
 ### Probability value:
 ![image](https://github.com/Sachin-vlr/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497666/c909d5b9-3276-45a3-a068-ca91a8c41151)
